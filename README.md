@@ -2,7 +2,7 @@
 
 VehicleAI is a modern full-stack car marketplace built with **Next.js 15**, **Tailwind CSS**, **Prisma**, **Supabase**, and **Gemini AI**. The app empowers users to explore, filter, and save cars, while admins can manage inventory, schedule test drives, and even extract car details from uploaded images using Gemini Vision AI.
 
-🔗 **Live Website:** [vehicleai.vercel.app](https://vehicleai.vercel.app)
+🔗 **Live Website:** [vehicleai.vercel.app]([https://vehicleai.vercel.app](https://ai-car-marketplace-theta.vercel.app/))
 
 ---
 
